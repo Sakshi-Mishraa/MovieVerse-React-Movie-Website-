@@ -2,7 +2,7 @@
 
 **MovieVerse** is a dynamic movie browsing platform built with **React**, **React Router v6**, **Axios**, and **Bootstrap 5**, integrating the **TVMaze API** to fetch and display movies with detailed information.  
 
-🌐 **Live Demo:** [MovieVerse on Netlify](https://lnkd.in/ducigeUm)  
+🌐 **Live Demo:** [MovieVerse on Netlify](https://remarkable-cheesecake-ca3e52.netlify.app/))  
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Frontend:** React, React Router v6  
 - **HTTP Client:** Axios  
