@@ -1,0 +1,14 @@
+/* Navbar.css */
+
+.nav-link.active-link {
+  color: purple !important;
+  font-weight: bold;
+}
+
+.nav-link{
+  font-weight: bold;
+}
+.nav-link:hover {
+  color: #6a0dad; /* Optional: darker purple on hover */
+}
+
